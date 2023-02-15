@@ -1,4 +1,4 @@
-# <h1 id="dsa_journey"> dsa_journey ![GitHub package.json version](https://img.shields.io/github/package-json/v/Nik4Furi/dsa_journey) </h1>
+# <h1 id="dsa_journey"> dsa_journey ,My Journey OF DSA</h1>
 ### A project_tuts, where I am adding my daily learning,working and watching tuts, works.
 dsa_journey, is a my daily learning scenario, how i am doing, after watching the tuts of <a href="https://youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA" target="_url">CodeHelp Love Babber Playlist </a>. Am also adding my approaches, love babber aps/ optimal appraches, also I am adding *Brute Force* and *Optimal Approaches*.So it can help me during practise or revisions.
 
@@ -23,7 +23,7 @@ dsa_journey, is a my daily learning scenario, how i am doing, after watching the
 
 ## <h2 id="pinned" >Pinned or HelpFull Repls Links or Repls </h2>
 
-**Patterns:** My patterns questions are here <a href="https://replit.com/@NIKHILGURJAR/01pattern?v=1"> Patterns </a>
+**Day-2:** <a href="https://github.com/Nik4Furi/dsa_journey/blob/master/tut_5_6_Binarry_Decimal_ques"> Binary Decimal, or Bits </a>     <a href="https://github.com/Nik4Furi/dsa_journey/blob/master/tut_7_Leet_Quest"> Leet Code Questions </a> 
 
 <a href="#dsa_journey">Go Home </a>
 
@@ -32,6 +32,7 @@ dsa_journey, is a my daily learning scenario, how i am doing, after watching the
 ## <h2 id="stack" >Tech Stack </h2>
 
 **Language:** To do DSA questions, I am using C/C++
+
 **Plateforms:** To practise DSA questions, I am using or refer <a href="https://practice.geeksforgeeks.org/"> GFG </a>,<a href="https://leetcode.com/"> LeetCode </a>, can use more or others...
 
 <a href="#dsa_journey">Go Home </a>
