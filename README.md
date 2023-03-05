@@ -23,7 +23,10 @@ dsa_journey, is a my daily learning scenario, how i am doing, after watching the
 
 ## <h2 id="pinned" >Pinned or HelpFull Repls Links or Repls </h2>
 
-**Day-2:** <a href="https://github.com/Nik4Furi/dsa_journey/blob/master/tut_5_6_Binarry_Decimal_ques"> Binary Decimal, or Bits </a>     <a href="https://github.com/Nik4Furi/dsa_journey/blob/master/tut_7_Leet_Quest"> Leet Code Questions </a> 
+**Day-4: Arrays as an info, Time & Space complexities, Binary Search & with their questions** 
+- <a href="https://github.com/Nik4Furi/dsa_journey/blob/master/tut_9_Arrays"> Arrays </a> 
+- <a href="https://github.com/Nik4Furi/dsa_journey/blob/master/tut_11_12_t&sComplex_Binarysearch"> Binary Search in arrays(sorted) </a> 
+- <a href="https://github.com/Nik4Furi/dsa_journey/blob/master/tut_13_Code_Ques"> Binary Questions </a> 
 
 <a href="#dsa_journey">Go Home </a>
 
