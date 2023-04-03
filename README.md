@@ -23,11 +23,12 @@ dsa_journey, is a my daily learning scenario, how i am doing, after watching the
 
 ## <h2 id="pinned" >Pinned or HelpFull Repls Links or Repls </h2>
 
-**Day-5: Basci Math for DSA** 
-- <a href="https://github.com/Nik4Furi/dsa_journey/blob/master/tut_24_Math"> Basis Math </a>  
+**Day-6: Revision of Recursion ||  Introduction of linked list,with singly linked list CRUD** 
+- <a href="https://github.com/Nik4Furi/dsa_journey/blob/master/tut_31to41_Recursion&Backtracking"> tut_31to41_Recursion&Backtracking </a>  
+- <a href="https://github.com/Nik4Furi/dsa_journey/blob/master/tut_44_Linked_List/01_Singly_LinkedList"> 01_Singly_LinkedList </a>  
+- <a href="https://github.com/Nik4Furi/dsa_journey/blob/master/tut_44_Linked_List/02_Doubly_LinkedList"> 02_Doubly_LinkedList </a>  
 
 <a href="#dsa_journey">Go Home </a>
-
 
 
 ## <h2 id="stack" >Tech Stack </h2>
