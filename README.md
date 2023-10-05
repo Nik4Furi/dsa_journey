@@ -1,4 +1,5 @@
 # <h1 id="dsa_journey"> dsa_journey ,My Journey OF DSA</h1>
+## Where I am solved many listes of competitors questions 
 ### A project_tuts, where I am adding my daily learning,working and watching tuts, works.
 dsa_journey, is a my daily learning scenario, how i am doing, after watching the tuts of <a href="https://youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA" target="_url">CodeHelp Love Babber Playlist </a>. Am also adding my approaches, love babber aps/ optimal appraches, also I am adding *Brute Force* and *Optimal Approaches*.So it can help me during practise or revisions.
 
@@ -23,10 +24,7 @@ dsa_journey, is a my daily learning scenario, how i am doing, after watching the
 
 ## <h2 id="pinned" >Pinned or HelpFull Repls Links or Repls </h2>
 
-**Day-6: Revision of Recursion ||  Introduction of linked list,with singly linked list CRUD** 
-- <a href="https://github.com/Nik4Furi/dsa_journey/blob/master/tut_31to41_Recursion&Backtracking"> tut_31to41_Recursion&Backtracking </a>  
-- <a href="https://github.com/Nik4Furi/dsa_journey/blob/master/tut_44_Linked_List/01_Singly_LinkedList"> 01_Singly_LinkedList </a>  
-- <a href="https://github.com/Nik4Furi/dsa_journey/blob/master/tut_44_Linked_List/02_Doubly_LinkedList"> 02_Doubly_LinkedList </a>  
+**Day-1: Do Array 10 questions and 2 questions of 2D Array** 
 
 <a href="#dsa_journey">Go Home </a>
 
