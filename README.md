@@ -24,7 +24,7 @@ dsa_journey, is a my daily learning scenario, how i am doing, after watching the
 
 ## <h2 id="pinned" >Pinned or HelpFull Repls Links or Repls </h2>
 
-**Day-1: Do Array 10 questions and 2 questions of 2D Array** 
+**Day-2: Do Array 6 questions** 
 
 <a href="#dsa_journey">Go Home </a>
 
