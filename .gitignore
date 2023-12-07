@@ -1,6 +1,0 @@
-# Basically remove all .exe files
-*.exe
-
-.vscode
-
-TakeUForward
